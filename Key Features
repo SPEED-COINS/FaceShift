@@ -1,0 +1,21 @@
+## Key Features
+- **AI Face Swapping**: Models powered by AI for detecting and swapping faces.
+- **Web Application**: A powerful, user-friendly React-based interface.
+- **Desktop Application**: Electron-based desktop version for easy access.
+- **Mobile Application**: Built using React Native for seamless mobile experience.
+- **Web Page**: Contains download links and HTML/CSS for user installation instructions.
+
+## Requirements
+### To run the project, you will need:
+- Python 3.x
+- Node.js
+- Flask
+- React
+- React Native
+- Electron
+
+## Setup Instructions
+### 1. **Backend** (AI and Flask API)
+- Navigate to the `backend/` folder:
+  ```bash
+  cd backend
